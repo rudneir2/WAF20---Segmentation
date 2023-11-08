@@ -12,7 +12,7 @@ The diagram below will help you understand how a segmentation strategy may help 
 
 Let's start with a simple diagram from the subscription level.
 
-![image](https://github.com/rudneir2/WAF20---Segmentation/assets/97529152/1999c391-9187-4ffd-99d7-ffebf10ee129)
+![image](https://github.com/rudneir2/WAF20---Segmentation/assets/97529152/3ad84105-cc17-4dbe-855a-555956cd3775)
 
 Let's consider the following in the image above:
 
